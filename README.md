@@ -70,7 +70,8 @@ The Car Rental Reservation System is a backend API designed to manage car rental
 - **GET-MY-BOOKING /api/bookings/my-bookings**: Get a reservation by ID.(USer only).
 - **GET-All-BOOKING /api/bookings**: Get a reservation by ID (Admin only).
 - **PAtch /api/cars/return**: Update a reservation by ID.(Admin only).
-
+### Admin:example3@gmail.com    pass:1234  =>Super admin
+### Admin:example00@gmail.com    pass:1234  =>admin
 
 
 
